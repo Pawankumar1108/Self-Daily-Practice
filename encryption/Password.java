@@ -52,8 +52,14 @@ public class Password {
 		 * }
 		 * 
 		 * 
-		 * char [] n= new char[2]; n[0]='d'; n[1]='f'; System.out.println(n); try {
-		 * Password pass =new Password(); pass.disp(); }catch(NullPointerException ne) {
+		 * char [] n= new char[2]; 
+		 * n[0]='d'; 
+		 * n[1]='f';
+		 *  System.out.println(n); 
+		 *  try {
+		 * Password pass =new Password();
+		 *  pass.disp(); 
+		 *  }catch(NullPointerException ne) {
 		 * System.out.println("hello!"); }
 		 * 
 		 * 
@@ -63,11 +69,15 @@ public class Password {
 		 * 
 		 * 
 		 * byte[] encodingChar = new byte[5];
-		 * //encodingChar=stringEncodingtest.nextByte(); encodingChar[0]=10;
-		 * encodingChar[1]='q'; encodingChar[2]='e'; encodingChar[3]=3;
+		 * //encodingChar=stringEncodingtest.nextByte();
+		 *  encodingChar[0]=10;
+		 * encodingChar[1]='q'; 
+		 * encodingChar[2]='e'; 
+		 * encodingChar[3]=3;
 		 * encodingChar[4]='S';
 		 * 
-		 * String[] name = {"a","1","2","a"}; System.out.println(" the name is :"+
+		 * String[] name = {"a","1","2","a"}; 
+		 * System.out.println(" the name is :"+
 		 * name);
 		 * 
 		 * String na = "Heloooooo"; System.out.println(na);
